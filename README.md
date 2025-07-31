@@ -30,7 +30,7 @@ This tutorial outlines the prerequisites aand installation of the help desk tick
 
 1.3 Fill out the following information:
 - Subscription - Select your current and active subscription
-- Resource Group - Select the resource group previously made in Step 1: **"Testing-RG"**
+- Resource Group - Select your resource group
 - Virtual machine name - For this lab, we will name our VM:  **"Windows-VM"**
 - Region - Select your current region. For this lab, we will select **"(US) East US"**
 - Availablity Zone - Select **"Zone 3"**
